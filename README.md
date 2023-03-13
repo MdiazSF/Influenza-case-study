@@ -20,6 +20,8 @@ Limitations of the US Census data:
 • Time lag – Data was collected infrequently. The numbers may not reflect the
 actual population since this data is surveyed and collected every 10 years
 Limitations of the CDC Mortality rate:
+
 • Completeness – Some death counts were not accounted for and non-numeric
 value of suppressed was in its place.
+
 In the data set, some death counts for younger populations were categorized as suppressed and according to CDC, “to discourage misinterpretation or misuse of rates or counts that are unstable, incidence and death rates and counts are not shown in tables and figures if the case or death counts are below 16”
