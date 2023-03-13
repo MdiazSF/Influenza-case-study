@@ -3,9 +3,9 @@ Staff allocation for healthcare settings
 
 ## 1. PROJECT OVERVIEW:
 
-# Motivation: The United States has an influenza season where more people than usual suffer from the flu. Particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
+- Motivation: The United States has an influenza season where more people than usual suffer from the flu. Particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
 
-# Objective: Determine when and the quantity of staff to allocate to each state. Scope: The agency covers all hospitals in each of the 50 states of the United
+- Objective: Determine when and the quantity of staff to allocate to each state. Scope: The agency covers all hospitals in each of the 50 states of the United
 States, and the project will plan for the upcoming influenza season.
 
 ## 2. HYPOTHESIS:
