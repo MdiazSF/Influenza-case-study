@@ -1,16 +1,17 @@
 # Influenza-case-study
 Staff allocation for healthcare settings 
 
-PROJECT OVERVIEW:
-Motivation: The United States has an influenza season where more people than usual suffer from the flu. Particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
-Objective: Determine when and the quantity of staff to allocate to each state. Scope: The agency covers all hospitals in each of the 50 states of the United
+## 1. PROJECT OVERVIEW:
+
+#Motivation: The United States has an influenza season where more people than usual suffer from the flu. Particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
+#Objective: Determine when and the quantity of staff to allocate to each state. Scope: The agency covers all hospitals in each of the 50 states of the United
 States, and the project will plan for the upcoming influenza season.
-2. HYPOTHESIS:
+## 2. HYPOTHESIS:
 “If the medical staff can be allocated for the months where the flu is most prevalent, then influenza death fatalities may be avoided for all age groups.”
-3. DATA OVERVIEW:
+## 3. DATA OVERVIEW:
 • CDC Influenza death rate: This data shows the death rate in the US from 2009-2017 by state, year, month and age group.
 • Census population data: This data shows the US population from 2009-2017 by state, county, and age group.
-4. DATA LIMITATIONS:
+## 4. DATA LIMITATIONS:
 Limitations of the US Census data:
 • Time lag – Data was collected infrequently. The numbers may not reflect the
 actual population since this data is surveyed and collected every 10 years
