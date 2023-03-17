@@ -1,5 +1,5 @@
 # Influenza-case-study
-Staff allocation for healthcare settings 
+Applied excel and tableau skills to determine staff allocation in a healthcare setting. 
 
 ### 1. PROJECT OVERVIEW:
 
