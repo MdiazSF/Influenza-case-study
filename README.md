@@ -1,5 +1,6 @@
 # Influenza-case-study
 Applied excel and tableau skills to determine staff allocation in a healthcare setting. 
+https://public.tableau.com/app/profile/michelle.diaz/viz/FinalInfluenzaProject/Story1?publish=yes
 
 ### 1. PROJECT OVERVIEW:
 
@@ -26,4 +27,4 @@ value of suppressed was in its place.
 
 In the data set, some death counts for younger populations were categorized as suppressed and according to CDC, “to discourage misinterpretation or misuse of rates or counts that are unstable, incidence and death rates and counts are not shown in tables and figures if the case or death counts are below 16”
 
-https://public.tableau.com/app/profile/michelle.diaz/viz/FinalInfluenzaProject/Story1?publish=yes
+
